@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color:white;
+
+}
+.tad{
+    display: flex;
+}
+img{
+    padding-left: 100px;
+}
+.top{
+    padding-top: 100px;
+}
